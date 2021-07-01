@@ -1,1 +1,2 @@
 This is second file
+Updateing sample2.txt in Branch1
